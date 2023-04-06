@@ -15,7 +15,6 @@ const cartLoader = async () =>{
         }
         
     }
-    console.log(savedCart.length)
     return savedCart
 }
 
